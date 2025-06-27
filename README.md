@@ -11,3 +11,6 @@ O principal objetivo do projeto é construir o aplicativo, adquirindo estudantes
 
 ### Tipografia, Paleta de cores, logos e assinaturas:
 <https://drive.google.com/drive/u/0/folders/1Rb6fqBsEIRfg2yEXKYCo8aeSHY5Uf-ei>
+
+### Notion - Documentação(entrevistas, análises, sugestões, etc)
+<https://www.notion.so/UX-Research-1f0c8dda35288052b6d8c3f1a3ae802c>
