@@ -8,3 +8,6 @@ O principal objetivo do projeto é construir o aplicativo, adquirindo estudantes
 
 ### Desing Thinking:
 <https://app.mural.co/t/empreendedorismoinovador2987/m/empreendedorismoinovador2987/1678820622674/179836cce127875e9f679ce46305228f90c97a6e>
+
+### Tipografia, Paleta de cores, logos e assinaturas:
+<https://drive.google.com/drive/u/0/folders/1Rb6fqBsEIRfg2yEXKYCo8aeSHY5Uf-ei>
